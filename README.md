@@ -1,4 +1,4 @@
-# manage_requirements_file_automatically_using_pip
+# Manage Requirements File Automatically Using Pip
 Run this bash file and let it automatically create requirements.txt file in your venv
 
 ## Steps to install it
@@ -21,3 +21,4 @@ Run this bash file and let it automatically create requirements.txt file in your
 
 ### It will automatically create a new requirements file 
 
+![Alt Text](/pip_gif.gif)
